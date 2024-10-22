@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_61nHytYIjcp" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Practical Application of Calling Methods</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Practical_Application_of_Calling_Methods_ORG">
+    <organization identifier="Practical_Application_of_Calling_Methods_ORG">
+      <title>Practical Application of Calling Methods</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__61nHytYIjcp_RES">
+        <title>Practical Application of Calling Methods</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__61nHytYIjcp_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/5efFR1u7KwK.jpg" />
+      <file href="mobile/6C26yDAVEj2.jpg" />
+      <file href="mobile/6oLxxUSDxko.jpg" />
+      <file href="mobile/6WOPO38WE6U.jpg" />
+      <file href="mobile/644otgOnHu9.jpg" />
+      <file href="mobile/5Vpx80PsURU.jpg" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cfrpxhLtSY.js" />
+      <file href="html5/data/js/5g9Qc6FcLJF.js" />
+      <file href="html5/data/js/5gguNjCfKwZ.js" />
+      <file href="html5/data/js/5iYqwznucQa.js" />
+      <file href="html5/data/js/5nBrKNr0MGW.js" />
+      <file href="html5/data/js/5oMwN1YNw80.js" />
+      <file href="html5/data/js/5pFQdh7oqdj.js" />
+      <file href="html5/data/js/5qjAvFjw0Xi.js" />
+      <file href="html5/data/js/5tQAx5rK9Kh.js" />
+      <file href="html5/data/js/5WhmezhEdys.js" />
+      <file href="html5/data/js/5WXZirb54rJ.js" />
+      <file href="html5/data/js/5YWODdPTIbs.js" />
+      <file href="html5/data/js/601ADPzfYHO.js" />
+      <file href="html5/data/js/67zccqfuSlJ.js" />
+      <file href="html5/data/js/680I8OpIKaL.js" />
+      <file href="html5/data/js/6c4jz36ABpV.js" />
+      <file href="html5/data/js/6FDn0scnSlQ.js" />
+      <file href="html5/data/js/6hTFdH34GfI.js" />
+      <file href="html5/data/js/6IK6ZKiUJdR.js" />
+      <file href="html5/data/js/6jbiq1kzViv.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6kg7WrB8ucO.js" />
+      <file href="html5/data/js/6KUFNAhV2nq.js" />
+      <file href="html5/data/js/6l9zAdz0cTu.js" />
+      <file href="html5/data/js/6lxeVdivuC6.js" />
+      <file href="html5/data/js/6nDFhrqY4Ds.js" />
+      <file href="html5/data/js/6pJDp6LuCeK.js" />
+      <file href="html5/data/js/6pulUVYid5x.js" />
+      <file href="html5/data/js/6qteYATcn8t.js" />
+      <file href="html5/data/js/6R8crFd20CH.js" />
+      <file href="html5/data/js/6SmcwrygvIl.js" />
+      <file href="html5/data/js/6YAKSZ4r2VZ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
